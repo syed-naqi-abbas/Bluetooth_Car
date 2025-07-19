@@ -22,8 +22,8 @@ A fun and interactive Arduino-based robotics project that uses hand gestures cap
 
 ---
 
-## 🎥 Demo
+## 🖼️ Demo
 
-\[Insert a link to demo video or GIF here]
+<img src="https://github.com/syed-naqi-abbas/pet_feeder/blob/main/car.jpg" height="242" width="400">
 
 ---
